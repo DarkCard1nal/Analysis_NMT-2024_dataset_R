@@ -37,6 +37,6 @@ A summary table compares all models, helping to determine the best-performing so
 ## Repository Contents
 
 - `project_nmt-2024_analysis.R` – R scripts for full analysis
-- `data/` – Raw and processed datasets
+- `OpenDataNMT2024.7z` – Raw and processed datasets
 
 ---
